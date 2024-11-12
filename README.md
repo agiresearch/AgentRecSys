@@ -119,7 +119,7 @@
 | N/A   | https://arxiv.org/abs/2308.07308 | arXiv  | 2024  | N/A    |
 | N/A   | https://arxiv.org/abs/2311.09096 | arXiv  | 2024  | N/A    |
 | N/A   | https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_28 | arXiv  | 2015  | N/A    |
-| N/A   | Adversarial recommendation: Attack of the learned fake users | arXiv  | 2018  | N/A    |
+| N/A   | https://arxiv.org/abs/1809.08336 | arXiv  | 2018  | N/A    |
 | N/A   | https://dl.acm.org/doi/abs/10.1145/3298689.3347031 | arXiv  | 2019  | N/A    |
 | N/A   | https://arxiv.org/abs/2002.08025 | arXiv | 2020  | N/A    |
 | N/A   | https://arxiv.org/abs/1809.04127 | arXiv  | 2018  | N/A    |
@@ -132,7 +132,7 @@
 | N/A   | https://arxiv.org/abs/2202.03286   | arXiv  | 2022  | N/A    |
 | N/A   | https://arxiv.org/abs/2304.05197   | arXiv  | 2023  | N/A    |
 | N/A   | https://arxiv.org/abs/2308.03825   | arXiv  | 2024  | N/A    |
-| N/A   | Autodan: Generating stealthy jailbreak prompts on aligned large language models   | arXiv  | 2024  | N/A    |
+| N/A   | https://arxiv.org/abs/2310.04451   | arXiv  | 2024  | N/A    |
 
 
 ### Explainability
