@@ -85,8 +85,7 @@
 | DRDT | [DRDT: DYNAMIC REFLECTION WITH DIVERGENT THINKING FOR LLM-BASED SEQUENTIAL RECOMMENDATION](https://arxiv.org/pdf/2312.11336) | arxiv  | 2023  | N/A |
 | RAH | [RAH! RecSys-Assistant-Human: A Human-Centered Recommendation Framework with LLM Agents](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10572486&casa_token=FljJg7vLXPMAAAAA:yLPcCbvgAWknSdED_nJPxzBHHBcJSP5SW5_Pb6diek5trkWzEAtodTLlnNqf33zrsogQJhH7oQ&tag=1) | IEEE  | 2024  | [Code](https://github.com/TheRepoForRAH/RAH) |
 | ToolRec | [Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning](https://dl.acm.org/doi/pdf/10.1145/3626772.3657828?casa_token=Pg_NuQB_UUUAAAAA:4vNSA4owka-OKgxwYr2NIXT_RU3zMJrxF0vfY6QKQyPfRLPar4Aiwv4nb6Nj30imCshji3fIuvTF) | SIGIR  | 2024  | [Code](https://github.com/Go0day/ToolRec-Code) |
-| CoSearchAgent | [CoSearchAgent: A Lightweight Collaborative Search Agent with
-Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3626772.3657672?casa_token=NL0LewOFKxgAAAAA:BIee9k2HgK4p56l4l4OFVw2omgc8QjJyH4xj69Y4W9BGP_a5cY_gvNcsA4ueUb2k935RUvdVvzma) | SIGIR  | 2024  | [Code](https://github.com/pygongnlp/CoSearchAgent) |
+| CoSearchAgent | [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3626772.3657672?casa_token=NL0LewOFKxgAAAAA:BIee9k2HgK4p56l4l4OFVw2omgc8QjJyH4xj69Y4W9BGP_a5cY_gvNcsA4ueUb2k935RUvdVvzma) | SIGIR  | 2024  | [Code](https://github.com/pygongnlp/CoSearchAgent) |
 
 ### Action Component
 
