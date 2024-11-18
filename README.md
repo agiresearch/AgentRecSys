@@ -123,31 +123,31 @@
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
-| model_name  | [REALM: retrieval-augmented language model pre-training](https://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | ICML  | 2020  | N/A    |
+| model_name  | [REALM: Retrieval-Augmented Language Model Pre-Training](https://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | ICML  | 2020  | N/A    |
 | model_name  | [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282) | EACL  | 2021  | N/A    |
-| model_name  | [Generalization through memorization: Nearest neighbor language models](https://openreview.net/pdf?id=HklBjCEKvH) | ICLR  | 2020  | N/A    |
-| model_name  | [Retrieval-augmented generation for knowledge-intensive nlp tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) | Neurips  | 2020  | N/A    |
-| model_name  | [Transformer-xl: Attentive language models beyond a fixed-length context](https://aclanthology.org/P19-1285.pdf) | ACL  | 2019  | N/A    |
-| model_name  | [Hybrid computing using a neural network with dynamic external memory](https://idp.nature.com/authorize/casa?redirect_uri=https://www.nature.com/articles/nature20101&casa_token=3RpsoFdTV7QAAAAA:ank1NoascfJHvsmBEk-WTJgdervJidRlbXQ6dmIeYqCCI1eeSrmfLwlAa-pM5OEtgNBCV2gFtftZjM0k) | Nature  | 2016  | N/A    |
-| model_name  | [Compressive transformers for long-range sequence modelling](https://arxiv.org/pdf/1911.05507) | ICLR  | 2019  | N/A    |
-| model_name  | [Meta-learning with memory-augmented neural networks](http://proceedings.mlr.press/v48/santoro16.pdf) | ICML  | 2016  | N/A    |
-| model_name  | [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | Neurips  | 2017  | N/A    |
-| model_name  | [Kgat: Knowledge graph attention network for recommendatio](https://dl.acm.org/doi/pdf/10.1145/3292500.3330989?casa_token=o0_d08P7TJAAAAAA:mK0Z46CkQxqJEZtXJTuEskFSqzM0c964ApFGtTyNhUTGFK1bgmdkFQXGfb0m7_CU9YIPOZnL6Dx4) | SIGKDD  | 2019  | N/A    |
-| model_name  | [Deep learning based recommender system: A survey and new perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029?casa_token=MwcCgeCiL4IAAAAA:IBo_vW-4qHrnd6OuE-t2aOzESIeuC_wWTMtkIrffnU-_T6BsYI3RRixAGMaRGv7Sw1nQurz3n5W7) | CSUR  | 2019  | N/A    |
+| model_name  | [Generalization Through Memorization: Nearest Neighbor Language Models](https://openreview.net/pdf?id=HklBjCEKvH) | ICLR  | 2020  | N/A    |
+| model_name  | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) | Neurips  | 2020  | N/A    |
+| model_name  | [Transformer-xl: Attentive Language Models Beyond a Fixed-Length Context](https://aclanthology.org/P19-1285.pdf) | ACL  | 2019  | N/A    |
+| model_name  | [Hybrid Computing Using a Neural Network with Dynamic External Memory](https://idp.nature.com/authorize/casa?redirect_uri=https://www.nature.com/articles/nature20101&casa_token=3RpsoFdTV7QAAAAA:ank1NoascfJHvsmBEk-WTJgdervJidRlbXQ6dmIeYqCCI1eeSrmfLwlAa-pM5OEtgNBCV2gFtftZjM0k) | Nature  | 2016  | N/A    |
+| model_name  | [Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/pdf/1911.05507) | ICLR  | 2019  | N/A    |
+| model_name  | [Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.pdf) | ICML  | 2016  | N/A    |
+| model_name  | [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | Neurips  | 2017  | N/A    |
+| model_name  | [Kgat: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330989?casa_token=o0_d08P7TJAAAAAA:mK0Z46CkQxqJEZtXJTuEskFSqzM0c964ApFGtTyNhUTGFK1bgmdkFQXGfb0m7_CU9YIPOZnL6Dx4) | SIGKDD  | 2019  | N/A    |
+| model_name  | [Deep Learning Based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029?casa_token=MwcCgeCiL4IAAAAA:IBo_vW-4qHrnd6OuE-t2aOzESIeuC_wWTMtkIrffnU-_T6BsYI3RRixAGMaRGv7Sw1nQurz3n5W7) | CSUR  | 2019  | N/A    |
 
 ### Plan Recommendation
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
-| model_name    | [Large language models are zero-shot reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf) | Neurips  | 2022  | N/A    |
-| model_name    | [Teaching small language models to reason](https://arxiv.org/pdf/2212.08410) | ACL  | 2023  | N/A    |
-| model_name    | [Measuring and narrowing the compositionality gap in language models](https://arxiv.org/pdf/2210.03350) | EMNLP  | 2023  | N/A    |
-| model_name    | [Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/pdf/2203.11171.pdf?trk=public_post_comment-text) | ICLR  | 2023  | N/A    |
-| model_name    | [Chain-of-thought prompting elicits reasoning in large language models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) | Neurips  | 2022  | N/A    |
-| model_name    | [Pal: Program-aided language models](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf) | ICML  | 2023  | N/A    |
-| model_name    | [Show your work: Scratchpads for intermediate computation with language model](https://arxiv.org/pdf/2112.00114) | Arxiv  | 2021  | N/A    |
-| model_name    | [Tree of thoughts: Deliberate problem solving with large language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
-| model_name    | [React: Synergizing reasoning and acting in language models](https://arxiv.org/pdf/2210.03629) | ICLR  | 2023  | N/A    |
+| model_name    | [Large Language Models Are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf) | Neurips  | 2022  | N/A    |
+| model_name    | [Teaching Small Language Models to Reason](https://arxiv.org/pdf/2212.08410) | ACL  | 2023  | N/A    |
+| model_name    | [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/pdf/2210.03350) | EMNLP  | 2023  | N/A    |
+| model_name    | [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/pdf/2203.11171.pdf?trk=public_post_comment-text) | ICLR  | 2023  | N/A    |
+| model_name    | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) | Neurips  | 2022  | N/A    |
+| model_name    | [Pal: Program-Aided Language Models](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf) | ICML  | 2023  | N/A    |
+| model_name    | [Show Your Work: Scratchpads for Intermediate Computation with Language Model](https://arxiv.org/pdf/2112.00114) | Arxiv  | 2021  | N/A    |
+| model_name    | [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/271db9922b8d1f4dd7aaef84ed5ac703-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
+| model_name    | [React: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) | ICLR  | 2023  | N/A    |
 
 ### Tool Recommendation
 
@@ -155,38 +155,39 @@
 | -------------- | ------------- | --------- | -------- | -------- | 
 | model_name    | [GeckOpt: LLM System Efficiency via Intent-Based Tool Selection](https://dl.acm.org/doi/fullHtml/10.1145/3649476.3658784) | VLSI  | 2024  | N/A    |
 | model_name    | [Efficient Tool Use with Chain-of-Abstraction Reasoning](https://arxiv.org/pdf/2401.17464v1?_immersive_translate_auto_translate=1) | arXiv  | 2024  | N/A    |
-| model_name    | [Openagi: When llm meets domain experts](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf) | Neurips  | 2024  | N/A    |
-| model_name    | [Art: Automatic multi-step reasoning and tool-use for large language models](https://arxiv.org/pdf/2303.09014) | arXiv  | 2023  | N/A    |
-| model_name    | [Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face](https://proceedings.neurips.cc/paper_files/paper/2023/file/77c33e6a367922d003ff102ffb92b658-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
+| model_name    | [Openagi: When LLM Meets Domain Experts](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf) | Neurips  | 2024  | N/A    |
+| model_name    | [Art: Automatic Multi-Step Reasoning and Tool-Use for Large Language Models](https://arxiv.org/pdf/2303.09014) | arXiv  | 2023  | N/A    |
+| model_name    | [Hugginggpt: Solving AI Tasks with Chatgpt and Its Friends in Hugging Face](https://proceedings.neurips.cc/paper_files/paper/2023/file/77c33e6a367922d003ff102ffb92b658-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
 | model_name    | [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://restgpt.github.io/static/pdf/RestGPT.pdf) | arXiv  | 2023  | N/A    |
 | model_name    | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629) | ICLR  | 2023  | N/A    |
-| model_name    | [Easytool: Enhancing llm-based agents with concise tool instruction](https://arxiv.org/pdf/2401.06201) | arXiv  | 2024  | N/A    |
-| model_name    | [The use of MMR, diversity-based reranking for reordering documents and producing summaries](https://dl.acm.org/doi/pdf/10.1145/290941.291025) | SIGIR  | 1998  | N/A    |
+| model_name    | [Easytool: Enhancing LLM-Based Agents with Concise Tool Instruction](https://arxiv.org/pdf/2401.06201) | arXiv  | 2024  | N/A    |
+| model_name    | [The use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries](https://dl.acm.org/doi/pdf/10.1145/290941.291025) | SIGIR  | 1998  | N/A    |
 | model_name    | [VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models](https://arxiv.org/pdf/2407.04573) | arXiv  | 2024  | N/A    |
-| model_name    | [ToolNet: Connecting large language models with massive tools via tool graph](https://arxiv.org/pdf/2403.00839) | arXiv  | 2024  | N/A    |
-| model_name    | [Toolllm: Facilitating large language models to master 16000+ real-world apis](https://r.jordan.im/download/language-models/qin2023.pdf) | ICLR  | 2024  | N/A    |
+| model_name    | [ToolNet: Connecting Large Language Models with Massive Tools Via Tool Graph](https://arxiv.org/pdf/2403.00839) | arXiv  | 2024  | N/A    |
+| model_name    | [Toolllm: Facilitating Large Language Models to Master 16000+ Real-World Apis](https://r.jordan.im/download/language-models/qin2023.pdf) | ICLR  | 2024  | N/A    |
 | model_name    | [COLT: Towards Completeness-Oriented Tool Retrieval for Large Language Models](https://arxiv.org/pdf/2405.16089) | arXiv  | 2024  | N/A    |
-| model_name    | [Syntax error-free and generalizable tool use for llms via finite-state decoding](https://arxiv.org/pdf/2310.07075) | arXiv  | 2023  | N/A    |
+| model_name    | [Syntax Error-Free and Generalizable Tool Use for LLMs Via Finite-State Decoding](https://arxiv.org/pdf/2310.07075) | arXiv  | 2023  | N/A    |
 | model_name    | [ToolRerank: Adaptive and Hierarchy- Aware Reranking for Tool Retrieval](https://arxiv.org/pdf/2403.06551) | LREC-COLING  | 2024  | N/A    |
-| model_name    | [Confucius: Iterative tool learning from introspection feedback by easy-to-difficult curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/29759/31307) | AAAI  | 2024  | N/A    |
-| model_name    | [Toolkengpt: Augmenting frozen language models with massive tools via tool embeddings](https://proceedings.neurips.cc/paper_files/paper/2023/file/8fd1a81c882cd45f64958da6284f4a3f-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
-| model_name    | [Unsupervised dense information retrieval with contrastive learning](https://arxiv.org/pdf/2112.09118) | TMLR  | 2022  | N/A    |
-| model_name    | [Tptu-v2: Boosting task planning and tool usage of large language model-based agents in real-world systems.](https://arxiv.org/pdf/2311.11315) | arXiv  | 2023  | N/A    |
+| model_name    | [Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum](https://ojs.aaai.org/index.php/AAAI/article/view/29759/31307) | AAAI  | 2024  | N/A    |
+| model_name    | [Toolkengpt: Augmenting Frozen Language Models with Massive Tools Via Tool Embeddings](https://proceedings.neurips.cc/paper_files/paper/2023/file/8fd1a81c882cd45f64958da6284f4a3f-Paper-Conference.pdf) | Neurips  | 2024  | N/A    |
+| model_name    | [Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/pdf/2112.09118) | TMLR  | 2022  | N/A    |
+| model_name    | [Tptu-v2: Boosting Task Planning and Tool Usage of Large Language Model-Based Agents in Real-World Systems.](https://arxiv.org/pdf/2311.11315) | arXiv  | 2023  | N/A    |
 | model_name    | [TOOLVERIFIER: Generalization to New Tools via Self-Verification](https://arxiv.org/pdf/2402.14158) | arXiv  | 2024  | N/A    |
-| model_name    | [Making language models better tool learners with execution feedback](https://arxiv.org/pdf/2305.13068) | NAACL  | 2024  | N/A    |
+| model_name    | [PTR: Precision-Driven Tool Recommendation for Large Language Models](https://arxiv.org/pdf/2411.09613?) | arXiv  | 2024  | N/A    |
+| model_name    | [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/pdf/2305.13068) | NAACL  | 2024  | N/A    |
 | model_name    | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf?trk=public_post_comment-text) | EMNLP  | 2019  | N/A    |
-| model_name    | [The probabilistic relevance framework: BM25 and beyond](https://www.nowpublishers.com/article/DownloadSummary/INR-019) | FTIR  | 2009  | N/A    |
-| model_name    | [Approximate nearest neighbor negative contrastive learning for dense text retrieval](https://arxiv.org/pdf/2007.00808) | ICLR  | 2021  | N/A    |
-| model_name    | [Enhancing tool retrieval with iterative feedback from large language models](https://arxiv.org/pdf/2406.17465) | EMNLP  | 2024  | N/A    |
+| model_name    | [The Probabilistic Relevance Framework: BM25 and Beyond](https://www.nowpublishers.com/article/DownloadSummary/INR-019) | FTIR  | 2009  | N/A    |
+| model_name    | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/pdf/2007.00808) | ICLR  | 2021  | N/A    |
+| model_name    | [Enhancing Tool Retrieval with Iterative Feedback from Large Language Models](https://arxiv.org/pdf/2406.17465) | EMNLP  | 2024  | N/A    |
 
 ### Agent Recommendation
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
-| model_name    | [Bert: Pre-training of deep bidirectional transformers for language understanding](https://eva.fing.edu.uy/pluginfile.php/524749/mod_folder/content/0/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) | NAACL  | 2019  | N/A    |
-| model_name    | [A survey on knowledge graphs: Representation, acquisition, and applications](https://ieeexplore.ieee.org/iel7/5962385/9702897/09416312.pdf?casa_token=LQE3sAAKtwUAAAAA:Arg5qv1ZQeZAh5MldnphXfMQw5CoEZJhzcvFMp5kv_RAOUQq80z0GHvfHBXKJcDRaE2ugY3WCg) | IEEE  | 2021  | N/A    |
-| model_name    | [STAMP: short-term attention/memory priority model for session-based recommendation](https://dl.acm.org/doi/pdf/10.1145/3219819.3219950?casa_token=1qXJbpxQMzwAAAAA:bV-crm4vp6juEgtVxmuN79BzlqqzfdUblazkdKV0oVdZkRY0E43HhsBUelIiAF4XJRp62vzKAiWt) | SIGKDD  | 2018  | N/A    |
-| model_name    | [Open problems in cooperative ai](https://arxiv.org/pdf/2012.08630) | arXiv  | 2020  | N/A    |
+| model_name    | [Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://eva.fing.edu.uy/pluginfile.php/524749/mod_folder/content/0/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) | NAACL  | 2019  | N/A    |
+| model_name    | [A Survey on Knowledge Graphs: Representation, Acquisition, and Applications](https://ieeexplore.ieee.org/iel7/5962385/9702897/09416312.pdf?casa_token=LQE3sAAKtwUAAAAA:Arg5qv1ZQeZAh5MldnphXfMQw5CoEZJhzcvFMp5kv_RAOUQq80z0GHvfHBXKJcDRaE2ugY3WCg) | IEEE  | 2021  | N/A    |
+| model_name    | [STAMP: Short-Term Attention/Memory Priority Model for Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3219819.3219950?casa_token=1qXJbpxQMzwAAAAA:bV-crm4vp6juEgtVxmuN79BzlqqzfdUblazkdKV0oVdZkRY0E43HhsBUelIiAF4XJRp62vzKAiWt) | SIGKDD  | 2018  | N/A    |
+| model_name    | [Open Problems in Cooperative AI](https://arxiv.org/pdf/2012.08630) | arXiv  | 2020  | N/A    |
 
 ### Personalized LLMs and LLM Agents
 
