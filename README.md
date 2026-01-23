@@ -34,6 +34,7 @@
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
+| MemRec | [MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816) | arxiv | 2026 | [Code](https://github.com/rutgerswiselab/memrec) |
 | Agent4Rec | [On Generative Agents in Recommendation](https://arxiv.org/pdf/2310.10108) | SIGIR  | 2024  | [Code](https://github.com/LehengTHU/Agent4Rec) |
 | RecAgent | [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/pdf/2306.02552) | arxiv  | 2023  | N/A |
 | MACRec | [MACRec: a Multi-Agent Collaboration Framework for Recommendation](https://arxiv.org/pdf/2402.15235) | arxiv  | 2024  | [Code](https://github.com/wzf2000/MACRec) |
@@ -51,6 +52,7 @@
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
+| MemRec | [MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816) | arxiv | 2026 | [Code](https://github.com/rutgerswiselab/memrec) |
 | AgentCF | [AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems](https://arxiv.org/pdf/2310.09233) | WWW  | 2024  | [Code](https://github.com/RUCAIBox/AgentCF)|
 | Agent4Rec | [On Generative Agents in Recommendation](https://arxiv.org/pdf/2310.10108) | SIGIR  | 2024  | [Code](https://github.com/LehengTHU/Agent4Rec) |
 | RecAgent | [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/pdf/2306.02552) | arxiv  | 2023  | N/A |
@@ -109,6 +111,7 @@
 
 | **Model Name**       | **Paper**     | **Venue** | **Year** | **Code** |
 | -------------- | ------------- | --------- | -------- | -------- | 
+| MemRec | [MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816) | arxiv | 2026 | [Code](https://github.com/rutgerswiselab/memrec) |
 | Agent4Rec | [On Generative Agents in Recommendation](https://arxiv.org/pdf/2310.10108) | SIGIR  | 2024  | [Code](https://github.com/LehengTHU/Agent4Rec) |
 | RecAgent | [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/pdf/2306.02552) | arxiv  | 2023  | N/A |
 | MACRec | [MACRec: a Multi-Agent Collaboration Framework for Recommendation](https://arxiv.org/pdf/2402.15235) | arxiv  | 2024  | [Code](https://github.com/wzf2000/MACRec) |
